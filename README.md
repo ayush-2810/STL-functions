@@ -16,4 +16,4 @@ This **repository** contains some basic **STL** **functions**.
 
 **s.substr(i)** : This function returns the substring of string s from integer i.
 
-unordered_map<T, T> : This function creates an unordered map with data type T where T can be int, string etc.
+**unordered_map<T, T>** : This function creates an unordered map with data type T where T can be int, string etc.
