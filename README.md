@@ -23,3 +23,5 @@ This **repository** contains some basic **STL** **functions**.
 **ordered_map<T, T>** : This function creates an ordered map with data type T.
 
 **binary_search(startaddress, endaddress, valuetofind)** : This function search for the element in the array and returns 0 and 1 in logn time complexity. 
+
+auto : Use of auto is to avoid long initializations when creating iterators for containers.
