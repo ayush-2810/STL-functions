@@ -1,6 +1,6 @@
 # **STL-functions**  
 
-**STL** is library in **c++** which contains built in functions which are very useful for us to use. We don't have to make them on ourselves.  
+**STL** is library in **c++** which contains built in functions which are very **useful** for us to use. We don't have to make them on ourselves.  
 
 This **repository** contains some basic **STL** **functions**.
 
