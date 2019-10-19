@@ -26,4 +26,4 @@ This **repository** contains some basic **STL** **functions**.
 
 **auto** : Use of auto is to avoid long initializations when creating iterators for containers.
 
-a[n]{0} : Declares dictionary with n number of elements initialized to 0.
+**a[n]{0}** : Declares dictionary with n number of elements initialized to 0.
