@@ -27,6 +27,6 @@ This **repository** contains some basic **STL** **functions**.
 **binary_search(startaddress, endaddress, valuetofind)** : This function search for the element in the array and returns 0 and 1 in logn time complexity. 
   - **Time complexity** : O(logn)
 
-**auto** : Use of auto is to avoid long initializations when creating iterators for containers.
+**auto** : Use of auto is to avoid long initializations when creating iterators for containers like vectors, maps, etc.
 
 **a[n]{0}** : Declares dictionary with n number of elements initialized to 0.
