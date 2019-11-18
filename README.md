@@ -30,3 +30,5 @@ This **repository** contains some basic **STL** **functions**.
 **auto** : Use of auto is to avoid long initializations when creating iterators for containers like vectors, maps, etc.
 
 **a[n]{0}** : Declares dictionary with n number of elements initialized to 0.
+
+find(a, a+n, value) : Find element in range.
