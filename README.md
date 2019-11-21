@@ -32,3 +32,5 @@ This **repository** contains some basic **STL** **functions**.
 **a[n]{0}** : Declares dictionary with n number of elements initialized to 0.
 
 **find(a, a+n, value)** : Find element in range.
+
+list_name.reverse() : This function reverses the list.
