@@ -16,7 +16,7 @@ This **repository** contains some basic **STL** **functions**.
 **sort(v.begin(),v.end())** : This function sorts the vector in ascending order.
   - **Time complexity** : O(nlogn)
 
-sort(v.begin(),v.end(),greater<int>) : This function sorts the vector in descending order.
+**sort(v.begin(),v.end(),greater<int>)* : This function sorts the vector in descending order.
 
 **s.size()** or **s.length()** : This function returns the size or length of the string s.   
 
