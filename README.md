@@ -13,7 +13,7 @@ This **repository** contains some basic **STL** **functions**.
 
 **v.size()** : This returns the size of the vector v.
 
-**sort(v.begin(),v.end())** : This function sorts the vector in ascending order.
+**sort(v.begin(),v.end())** : This function sorts the vector in **ascending** order.
   - **Time complexity** : O(nlogn)
 
 **sort(v.begin(),v.end(),greater\<int>)** : This function sorts the vector in descending order.
