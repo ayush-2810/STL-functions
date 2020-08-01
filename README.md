@@ -38,3 +38,4 @@ This **repository** contains some basic **STL** **functions**.
 **list_name.reverse()** : This function reverses the list.  
 
 **__builtin_popcount(n)** : This function returns the number of **set bits** in a number n.
+  - Time complexity : O(1)
