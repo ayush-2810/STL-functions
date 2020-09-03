@@ -24,7 +24,7 @@ This **repository** contains some basic **STL** **functions**.
 
 **unordered_map<T, T>** : This function creates an unordered map with data type **T** where T can be int, string etc.
 
-**ordered_map<T, T>** : This function creates an ordered map with data type T.
+**ordered_map<T, T>** : This function creates an **ordered map** with data type T.
 
 **binary_search(startaddress, endaddress, valuetofind)** : This function search for the element in the array and returns 0 and 1 in logn time complexity. 
   - **Time complexity** : O(logn)
