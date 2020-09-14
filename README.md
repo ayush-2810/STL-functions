@@ -11,7 +11,7 @@ This **repository** contains some basic **STL** **functions**.
 
 **vector\<int> v** : This declares vector in c++. Vectors are same as **dynamic arrays** with the ability to resize itself automatically when an element is inserted or deleted, with their storage being handled automatically by the container. 
 
-**set<int> s** : This declares a set in c++.
+**set\<int> s** : This declares a set in c++.
 
 **v.size()** : This returns the size of the **vector** v.
 
