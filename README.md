@@ -32,7 +32,7 @@ This **repository** contains some basic **STL** **functions**.
   - **Time complexity** : O(logn)
 
 **auto** : Use of auto is to avoid long **initializations** when creating iterators for containers like vectors, maps, etc.
-  - Example - for(auto &i:s) cout<<i; 
+  - **Example** - for(auto &i:s) cout<<i; 
 
 **a[n]{0}** : Declares dictionary with n number of elements initialized to 0.
 
