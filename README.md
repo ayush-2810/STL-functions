@@ -22,7 +22,7 @@ This **repository** contains some basic **STL** **functions**.
 
 **s.size()** or **s.length()** : This function returns the size or length of the **string** s.   
 
-**s.substr(i)** : This function returns the substring of string s from integer i.
+**s.substr(i)** : This function returns the **substring** of string s from integer i.
 
 **unordered_map<T, T>** : This function creates an unordered map with data type **T** where T can be int, string etc.
 
